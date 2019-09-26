@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaiweyezei.eliteseamlessraingutter.com/sitemap.xml
